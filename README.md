@@ -1,4 +1,7 @@
-# demo.pro
+# Demo
+
 Trining
 
-# Trining Git  and Git Hub 
+# Trining Git and Git Hub
+
+added some description
